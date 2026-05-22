@@ -557,7 +557,7 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 720px) {
   :root { --max-w: 100%; }
   .pad-section { padding: 72px 0; }
-  .hero { min-height: auto; padding: 174px 0 72px; }
+  .hero { min-height: auto; padding: 144px 0 72px; }
   .hero-text { max-width: 100%; }
   .services-grid { grid-template-columns: 1fr; }
   .testi-grid { grid-template-columns: 1fr; }
