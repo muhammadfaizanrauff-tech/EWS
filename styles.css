@@ -549,7 +549,7 @@ img { max-width: 100%; height: auto; display: block; }
   .footer-grid { grid-template-columns: 1fr 1fr; gap: 2rem; }
   .hero-cards { display: none; }
   .hero-text { max-width: 100%; }
-  .hero-text p { max-width: 100%; }
+  .hero-text p { max-width: 100%; font-size: 1rem; }
   .ps-grid { grid-template-columns: 1fr; }
   .guar-card { flex-direction: column; text-align: center; }
   .cmp-table { font-size: .82rem; }
